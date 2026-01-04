@@ -62,3 +62,12 @@ This project implements a multitask deep learning model for action recognition a
 1. Open the frontend URL in your browser.
 2. Upload an image using the interface.
 3. Click "Submit" to get the predicted action and a generated caption.
+
+## Screenshots
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+![Screenshot 4](screenshots/5.png)
+
