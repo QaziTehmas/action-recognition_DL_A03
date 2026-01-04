@@ -31,7 +31,7 @@ This project implements a multitask deep learning model for action recognition a
 
 3. Install Python dependencies:
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 4. Start the Flask server:
